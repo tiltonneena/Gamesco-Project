@@ -21,15 +21,15 @@ Gamesco is a fictional company, however, the global game sales data used for thi
 <p align="center">
   <img width="275" height="192" src="https://github.com/tiltonneena/Gamesco-Project/blob/main/Images/slicers.jpg">
 </p>
-
-*PivotTables were used to group and summarize data, while filtering was done using slicers.*
-
+<p align="center">
+  <em>PivotTables were used to group and summarize data, while filtering was done using slicers.</em>
+</p>
 
 <p align="center">
   <img width="275" height="192" src="https://github.com/tiltonneena/Gamesco-Project/blob/main/Images/areachart.png">
 </p>
 <p align="center">
-// *Visualizations of the data were made to guide interpretation for descriptive analysis.* 
+  <em>Visualizations of the data were made to guide interpretation for descriptive analysis.</em>
 </p>
 
 3. A narrative was developed about data insights to present to stakeholders. The final report was prepared and consolidated into a PowerPoint presentation. 
