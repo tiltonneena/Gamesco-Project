@@ -22,7 +22,7 @@ Gamesco is a fictional company, however, the global game sales data used for thi
   <img width="275" height="192" src="https://github.com/tiltonneena/Gamesco-Project/blob/main/Images/slicers.jpg">
 </p>
 
-<center>*PivotTables were used to group and summarize data, while filtering was done using slicers.*</center>
+*PivotTables were used to group and summarize data, while filtering was done using slicers.*
 
 
 <p align="center">
