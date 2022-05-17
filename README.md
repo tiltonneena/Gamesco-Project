@@ -10,7 +10,7 @@ The executives at a video game company would like to use data related to game sa
 - **Microsoft PowerPoint:**  final presentation drafted in this slide show software. 
 
 ### Data Source
-Gamesco is a fictional company, however, the data used for this project is of real game sales, available on VGChartz.com. 
+Gamesco is a fictional company, however, the global game sales data used for this project is of real, available on VGChartz.com. 
 (Link here)
 
 ### Methodology
