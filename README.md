@@ -29,7 +29,7 @@ Gamesco is a fictional company, however, the global game sales data used for thi
   <img width="275" height="192" src="https://github.com/tiltonneena/Gamesco-Project/blob/main/Images/areachart.png">
 </p>
 <p align="center">
-*Visualizations of the data were made to guide interpretation for descriptive analysis.* 
+// *Visualizations of the data were made to guide interpretation for descriptive analysis.* 
 </p>
 
 3. A narrative was developed about data insights to present to stakeholders. The final report was prepared and consolidated into a PowerPoint presentation. 
