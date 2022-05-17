@@ -5,8 +5,8 @@
 The executives at a video game company would like to use data related to game sales to inform the development of new games. Specifically, they are seeking to gain insight into the popularity of different game genres and regional distinctions in sales. The objective for this project is to perform an analysis on time-series and sales data to inform future budgeting for the development of new games. 
 
 ### Tools & Context
--**Microsoft Excel:** the bulk of the analysis was performed on this spreadsheet software, including filtering/cleaning data, creating pivot tables, data visualizations, creating new variables, and descriptive analysis. 
--**Microsoft PowerPoint:**  final presentation drafted in this slide show software. 
+- **Microsoft Excel:** the bulk of the analysis was performed on this spreadsheet software, including filtering/cleaning data, creating pivot tables, data visualizations, creating new variables, and descriptive analysis. 
+- **Microsoft PowerPoint:**  final presentation drafted in this slide show software. 
 
 ### Data Source
 Gamesco is a fictional company, however, the data used for this project is of real game sales, available on VGChartz.com. 
