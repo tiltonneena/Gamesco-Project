@@ -21,7 +21,7 @@ Gamesco is a fictional company, however, the global game sales data used for thi
 ![](https://github.com/tiltonneena/Gamesco-Project/blob/main/Images/slicers.jpg)
 
 <p align="center">
-  <img width="275" height="192" src= Images/slicers.jpg>
+  <img width="275" height="192" src="Images/slicers.jpg"/>
 </p>
 <p align="center">
   
