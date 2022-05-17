@@ -30,9 +30,9 @@ Gamesco is a fictional company, however, the global game sales data used for thi
 *Slides from the presentation.* 
 
 ### Key Findings
-...•	The 3 regions with the strongest proportional sales are Japan (JP), Europe (EU), and North America (NA).
-...•	EU’s percent in sales has been steadily going up since 2006, North America’s percent in sales has been declining since 2010, all the while Japan’s percent in sales has been consistent with slight increase since 2012.
-...•	The most popular game genres were action, sports, and shooter games. 
+... - The 3 regions with the strongest proportional sales are Japan (JP), Europe (EU), and North America (NA).
+... - EU’s percent in sales has been steadily going up since 2006, North America’s percent in sales has been declining since 2010, all the while Japan’s percent in sales has been consistent with slight increase since 2012.
+... - The most popular game genres were action, sports, and shooter games. 
 
 ### Deliverable
 
