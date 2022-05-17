@@ -19,6 +19,11 @@ Gamesco is a fictional company, however, the global game sales data used for thi
 2. Once a fuller picture was gathered of the data set, the cleaning process of finding and treating incomplete, unclear, or duplicate data took place. Then, exploratory data analysis was performed to see how the data was distributed and to check for outliers. This was then followed by descriptive analysis to develop insight from the data. 
 
 ![](https://github.com/tiltonneena/Gamesco-Project/blob/main/Images/slicers.jpg)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/tiltonneena/Gamesco-Project/blob/main/Images/slicers.jpg">
+</p>
+
 *PivotTables were used to group and summarize data, while filtering was done using slicers.*
 
 (image here)
