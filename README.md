@@ -6,6 +6,7 @@ The executives at a video game company would like to use data related to game sa
 
 ### Tools & Context
 - **Microsoft Excel:** the bulk of the analysis was performed on this spreadsheet software, including filtering/cleaning data, creating pivot tables, data visualizations, creating new variables, and descriptive analysis. 
+
 - **Microsoft PowerPoint:**  final presentation drafted in this slide show software. 
 
 ### Data Source
