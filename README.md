@@ -51,8 +51,6 @@ Gamesco is a fictional company, however, the global game sales [data set](https:
 
 ### Deliverable
 
-seneca chaan is mean
-
 #### [Final Stakeholder Presentation](https://drive.google.com/file/d/1o_6Km6w59hyS-gmy7FzcsOWjvWDH4FlL/view?usp=sharing)
 
 <p align="center">
