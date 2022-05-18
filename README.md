@@ -20,25 +20,29 @@ Gamesco is a fictional company, however, the global game sales data used for thi
 1. Analysis began with formulating detailed questions to inform the investigation, followed by understanding the data set by examining the source of data, categorizing each column as quantitative/qualitative, and assessing any biases implicit in the data. 
 
 2. Once a fuller picture of the data set was gathered, the cleaning process of finding and treating incomplete, unclear, extreme, or duplicate data took place.
-<p align="center">
-  <img width="275" height="192" src="Images/histogram.png"/>
-</p>
-<p align="center">
-  <em>Histograms were used to find extreme values<br>that could potentially skew the analysis.</em>
-</p>
+
+    <p align="center">
+      <img width="275" height="192" src="Images/histogram.png"/>
+    </p>
+    <p align="center">
+      <em>Histograms were used to find extreme values<br>that could potentially skew the analysis.</em>
+    </p>
+    
 3. Then, exploratory data analysis was performed to see how the data was distributed and to check for outliers. This was then followed by descriptive analysis to develop insight from the data. 
-<p align="center">
-  <img width="275" height="192" src="Images/slicers.jpg"/>
-</p>
-<p align="center">
-  <em>PivotTables were used to group and summarize data,<br>while filtering was done using slicers.</em>
-</p>
-<p align="center">
-  <img width="275" height="192" src="Images/areachart.png"/>
-</p>
-<p align="center">
-  <em>Visualizations of the data were made to guide<br>interpretation for descriptive analysis.</em>
-</p>
+
+    <p align="center">
+      <img width="275" height="192" src="Images/slicers.jpg"/>
+    </p>
+    <p align="center">
+      <em>PivotTables were used to group and summarize data,<br>while filtering was done using slicers.</em>
+    </p>
+    <p align="center">
+      <img width="275" height="192" src="Images/areachart.png"/>
+    </p>
+    <p align="center">
+      <em>Visualizations of the data were made to guide<br>interpretation for descriptive analysis.</em>
+    </p>
+    
 4.  A narrative was developed about data insights to present to stakeholders. The final report was prepared and consolidated into a PowerPoint presentation.
 
 ### Key Findings
@@ -48,7 +52,7 @@ Gamesco is a fictional company, however, the global game sales data used for thi
 
 ### Deliverable
 
-seneca chaan cutie pie
+seneca chaan is mean
 
 #### [Final Stakeholder Presentation](https://drive.google.com/file/d/1o_6Km6w59hyS-gmy7FzcsOWjvWDH4FlL/view?usp=sharing)
 
