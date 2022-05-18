@@ -1,5 +1,8 @@
 # Gamesco Project
 ## Trend Analysis of Global Video Games Sales
+<p align="center">
+  <img width="500" height="330" src="Images/videogames.jpg"/>
+</p>
 
 ### Background
 The executives at a video game company would like to use data related to game sales to inform the development of new games. Specifically, they are seeking to gain insight into the popularity of different game genres and regional distinctions in sales. The objective for this project is to perform an analysis on time-series and sales data to inform future budgeting for the development of new games. 
@@ -22,16 +25,12 @@ Gamesco is a fictional company, however, the global game sales data used for thi
 <p align="center">
   <img width="275" height="192" src="Images/slicers.jpg"/>
 </p>
-  
-<p align="center">
-  <img width="275" height="192" src="https://github.com/tiltonneena/Gamesco-Project/blob/main/Images/slicers.jpg">
-</p>
 <p align="center">
   <em>PivotTables were used to group and summarize data,<br>while filtering was done using slicers.</em>
 </p>
 
 <p align="center">
-  <img width="275" height="192" src="https://github.com/tiltonneena/Gamesco-Project/blob/main/Images/areachart.png">
+  <img width="275" height="192" src="Images/areachart.png"/>
 </p>
 <p align="center">
   <em>Visualizations of the data were made to guide<br>interpretation for descriptive analysis.</em>
@@ -39,8 +38,13 @@ Gamesco is a fictional company, however, the global game sales data used for thi
 
 3. A narrative was developed about data insights to present to stakeholders. The final report was prepared and consolidated into a PowerPoint presentation. 
 
-(image here)
-*Slides from the presentation.* 
+<p align="center">
+  <img width="635" height="348" src="Images/presentation.jpg"/>
+</p>
+<p align="center">
+  <em>Slides from the presentation.</em>
+</p>
+
 
 ### Key Findings
 - The 3 regions with the strongest proportional sales were Japan (JP), Europe (EU), and North America (NA).
