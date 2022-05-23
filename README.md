@@ -1,5 +1,10 @@
-# Gamesco Project
-## Trend Analysis of Global Video Games Sales
+<p align="right">
+  <a href="https://tiltonneena.github.io/portfolio/">Back to Portfolio Homepage</a>
+</p>
+
+# Gamesco Trend Analysis of Video Games Sales
+### By Neena Tilton
+
 <p align="center">
   <img width="500" height="330" src="Images/videogames.jpg"/>
 </p>
@@ -55,4 +60,8 @@ Gamesco is a fictional company, however, the global game sales [data set](https:
 
 <p align="center">
   <img width="635" height="348" src="Images/presentation.jpg"/>
+</p>
+
+<p align="right">
+  <a href="https://tiltonneena.github.io/portfolio/">Back to Portfolio Homepage</a>
 </p>
