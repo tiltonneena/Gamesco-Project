@@ -15,15 +15,15 @@ The executives at a video game company would like to use data related to game sa
 ### Tools & Context
 - **Microsoft Excel:** the bulk of the analysis was performed on this spreadsheet software, including filtering/cleaning data, creating pivot tables, data visualizations, creating new variables, and descriptive analysis. 
 
-- **Microsoft PowerPoint:**  final presentation drafted in this slide show software. 
+- **Microsoft PowerPoint:**  final presentation was drafted in this slide show software. 
 
 ### Data Source
-Gamesco is a fictional company, however, the global game sales [data set](https://github.com/tiltonneena/Gamesco-Project/blob/main/vgsales_clean.xlsx) used for this project is of real, available on [VGChartz.com](https://www.vgchartz.com/gamedb/).
+Gamesco is a fictional company, but the global game sales [data set](https://github.com/tiltonneena/Gamesco-Project/blob/main/vgsales_clean.xlsx) used for this project is real and available on [VGChartz.com](https://www.vgchartz.com/gamedb/).
 
 ### Methodology
-1. Analysis began with formulating detailed questions to inform the investigation, followed by understanding the data set by examining the source of data, categorizing each column as quantitative/qualitative, and assessing any biases implicit in the data. 
+1. Analysis began with formulating detailed questions to inform the investigation. Then, to gain understanding of the data set, the source of the data was examined, each column was categorized as either quantitative or qualitative, and any biases implicit in the data were assessed. 
 
-2. Once a fuller picture of the data set was gathered, the cleaning process of finding and treating incomplete, unclear, extreme, or duplicate data took place.
+2. Once a complete picture of the data was pieced together, the cleaning process of finding and treating incomplete, unclear, extreme, or duplicate data took place.
 
     <p align="center">
       <img width="275" height="192" src="Images/histogram.png"/>
@@ -32,7 +32,7 @@ Gamesco is a fictional company, however, the global game sales [data set](https:
       <em>Histograms were used to find extreme values<br>that could potentially skew the analysis.</em>
     </p>
     
-3. Then, exploratory data analysis was performed to see how the data was distributed and to check for outliers. This was then followed by descriptive analysis to develop insight from the data. 
+3. Then, exploratory data analysis was performed to see how the data was distributed and to check for outliers. This was then followed by descriptive analysis to gain insight. 
 
     <p align="center">
       <img width="275" height="192" src="Images/slicers.jpg"/>
@@ -50,8 +50,8 @@ Gamesco is a fictional company, however, the global game sales [data set](https:
 4.  A narrative was developed about data insights to present to stakeholders. The final report was prepared and consolidated into a PowerPoint presentation.
 
 ### Key Findings
-- The 3 regions with the strongest proportional sales were Japan (JP), Europe (EU), and North America (NA).
-- EU’s percent in sales has been steadily going up since 2006, North America’s percent in sales has been declining since 2010, all the while Japan’s percent in sales has been consistent with slight increase since 2012.
+- The 3 regions with the strongest proportional sales were Japan, Europe, and North America.
+- Europe's sales percentage has steadily increased since 2006. North America’s sales percentage has decreased since 2010. Japan’s sales percentage has been relatively consistent with a slight increase since 2012.
 - The most popular game genres were action, sports, and shooter games. 
 
 ### Deliverable
